@@ -1,0 +1,15 @@
+C:\Users\Pobeda\Desktop\geekbrains\Final\Final_block1\Execution\obj\Debug\net6.0\Execution.csproj.AssemblyReference.cache
+C:\Users\Pobeda\Desktop\geekbrains\Final\Final_block1\Execution\obj\Debug\net6.0\Execution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pobeda\Desktop\geekbrains\Final\Final_block1\Execution\obj\Debug\net6.0\Execution.AssemblyInfoInputs.cache
+C:\Users\Pobeda\Desktop\geekbrains\Final\Final_block1\Execution\obj\Debug\net6.0\Execution.AssemblyInfo.cs
+C:\Users\Pobeda\Desktop\geekbrains\Final\Final_block1\Execution\obj\Debug\net6.0\Execution.csproj.CoreCompileInputs.cache
+C:\Users\Pobeda\Desktop\geekbrains\Final\Final_block1\Execution\bin\Debug\net6.0\Execution.exe
+C:\Users\Pobeda\Desktop\geekbrains\Final\Final_block1\Execution\bin\Debug\net6.0\Execution.deps.json
+C:\Users\Pobeda\Desktop\geekbrains\Final\Final_block1\Execution\bin\Debug\net6.0\Execution.runtimeconfig.json
+C:\Users\Pobeda\Desktop\geekbrains\Final\Final_block1\Execution\bin\Debug\net6.0\Execution.dll
+C:\Users\Pobeda\Desktop\geekbrains\Final\Final_block1\Execution\bin\Debug\net6.0\Execution.pdb
+C:\Users\Pobeda\Desktop\geekbrains\Final\Final_block1\Execution\obj\Debug\net6.0\Execution.dll
+C:\Users\Pobeda\Desktop\geekbrains\Final\Final_block1\Execution\obj\Debug\net6.0\refint\Execution.dll
+C:\Users\Pobeda\Desktop\geekbrains\Final\Final_block1\Execution\obj\Debug\net6.0\Execution.pdb
+C:\Users\Pobeda\Desktop\geekbrains\Final\Final_block1\Execution\obj\Debug\net6.0\Execution.genruntimeconfig.cache
+C:\Users\Pobeda\Desktop\geekbrains\Final\Final_block1\Execution\obj\Debug\net6.0\ref\Execution.dll
